@@ -1,0 +1,564 @@
+Uri: https://starpets.gg/
+File Name: C:\Downloaded Web Sites\starpets.gg\index.html
+Content Type: text/htmll
+
+Uri: https://starpets.gg/favicon.ico
+File Name: C:\Downloaded Web Sites\starpets.gg\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://starpets.gg/css/app.6b508780.css
+File Name: C:\Downloaded Web Sites\starpets.gg\css\app.6b508780.css
+Content Type: text/css
+
+Uri: https://starpets.gg/css/chunk-vendors.df055e60.css
+File Name: C:\Downloaded Web Sites\starpets.gg\css\chunk-vendors.df055e60.css
+Content Type: text/css
+
+Uri: https://starpets.gg/js/app.1749d0c3.js
+File Name: C:\Downloaded Web Sites\starpets.gg\js\app.1749d0c3.js
+Content Type: application/x-javascript
+
+Uri: https://starpets.gg/js/chunk-vendors.2102f28a.js
+File Name: C:\Downloaded Web Sites\starpets.gg\js\chunk-vendors.2102f28a.js
+Content Type: application/x-javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-DQVK2T5J38
+File Name: C:\Downloaded Web Sites\starpets.gg\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://starpets.gg/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\starpets.gg\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://starpets.gg/fonts/Gilroy-ExtraBold.bdf3ea41.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ExtraBold.bdf3ea41.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ExtraBold.bdf3ea41.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ExtraBold.bdf3ea41-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ExtraBold.2037b7c0.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ExtraBold.2037b7c0.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ExtraBold.07e6a6cd.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ExtraBold.07e6a6cd.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Heavy.335c7ebf.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Heavy.335c7ebf.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Heavy.335c7ebf.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Heavy.335c7ebf-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Heavy.ffa5800e.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Heavy.ffa5800e.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Heavy.8d36efeb.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Heavy.8d36efeb.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-LightItalic.b276abdd.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-LightItalic.b276abdd.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-LightItalic.b276abdd.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-LightItalic.b276abdd-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-LightItalic.0cf6584c.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-LightItalic.0cf6584c.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-LightItalic.a774850a.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-LightItalic.a774850a.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ThinItalic.0af99171.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ThinItalic.0af99171.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ThinItalic.0af99171.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ThinItalic.0af99171-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ThinItalic.72bca972.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ThinItalic.72bca972.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ThinItalic.9575e892.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ThinItalic.9575e892.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-BlackItalic.df2b7fe0.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-BlackItalic.df2b7fe0.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-BlackItalic.df2b7fe0.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-BlackItalic.df2b7fe0-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-BlackItalic.7fc70f6c.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-BlackItalic.7fc70f6c.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-BlackItalic.25a0c193.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-BlackItalic.25a0c193.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-BoldItalic.ebdd3100.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-BoldItalic.ebdd3100.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-BoldItalic.ebdd3100.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-BoldItalic.ebdd3100-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-BoldItalic.6171e2e9.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-BoldItalic.6171e2e9.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-BoldItalic.2b56aed0.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-BoldItalic.2b56aed0.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-SemiBold.2b2e536e.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-SemiBold.2b2e536e.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-SemiBold.2b2e536e.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-SemiBold.2b2e536e-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-SemiBold.989947b0.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-SemiBold.989947b0.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-SemiBold.05bdf30b.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-SemiBold.05bdf30b.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-UltraLightItalic.0bf003f5.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-UltraLightItalic.0bf003f5.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-UltraLightItalic.0bf003f5.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-UltraLightItalic.0bf003f5-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-UltraLightItalic.f07d7e71.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-UltraLightItalic.f07d7e71.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-UltraLightItalic.21f2f1d8.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-UltraLightItalic.21f2f1d8.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-SemiBoldItalic.eebe073a.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-SemiBoldItalic.eebe073a.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-SemiBoldItalic.eebe073a.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-SemiBoldItalic.eebe073a-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-SemiBoldItalic.2706d075.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-SemiBoldItalic.2706d075.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-SemiBoldItalic.d9652658.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-SemiBoldItalic.d9652658.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Light.c2a5327d.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Light.c2a5327d.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Light.c2a5327d.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Light.c2a5327d-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Light.f9b62dd8.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Light.f9b62dd8.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Light.73bfa12b.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Light.73bfa12b.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-MediumItalic.27cc5330.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-MediumItalic.27cc5330.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-MediumItalic.27cc5330.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-MediumItalic.27cc5330-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-MediumItalic.f8ac8bc5.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-MediumItalic.f8ac8bc5.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-MediumItalic.9bc60a85.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-MediumItalic.9bc60a85.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ExtraBoldItalic.04a0adfb.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ExtraBoldItalic.04a0adfb.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ExtraBoldItalic.04a0adfb.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ExtraBoldItalic.04a0adfb-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ExtraBoldItalic.e43cca6c.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ExtraBoldItalic.e43cca6c.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-ExtraBoldItalic.1ccd0d2f.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-ExtraBoldItalic.1ccd0d2f.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Regular.59525ce1.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Regular.59525ce1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Regular.59525ce1.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Regular.59525ce1-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Regular.8e8705d0.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Regular.8e8705d0.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Regular.ae5e7255.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Regular.ae5e7255.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-HeavyItalic.de665040.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-HeavyItalic.de665040.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-HeavyItalic.de665040.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-HeavyItalic.de665040-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-HeavyItalic.c9a8c7bb.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-HeavyItalic.c9a8c7bb.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-HeavyItalic.574db652.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-HeavyItalic.574db652.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Medium.ce12e7f2.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Medium.ce12e7f2.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Medium.ce12e7f2.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Medium.ce12e7f2-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Medium.7d5dc179.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Medium.7d5dc179.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Medium.6444f14a.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Medium.6444f14a.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-RegularItalic.d2d1a69f.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-RegularItalic.d2d1a69f.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-RegularItalic.d2d1a69f.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-RegularItalic.d2d1a69f-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-RegularItalic.5b729efb.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-RegularItalic.5b729efb.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-RegularItalic.4b9bfe4d.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-RegularItalic.4b9bfe4d.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-UltraLight.1b3e628e.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-UltraLight.1b3e628e.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-UltraLight.1b3e628e.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-UltraLight.1b3e628e-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-UltraLight.22b0d1f5.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-UltraLight.22b0d1f5.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-UltraLight.d3d30383.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-UltraLight.d3d30383.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Bold.5e111ca0.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Bold.5e111ca0.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Bold.5e111ca0.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Bold.5e111ca0-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Bold.32750b00.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Bold.32750b00.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Bold.3cf0ee27.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Bold.3cf0ee27.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Thin.936acdcb.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Thin.936acdcb.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Thin.936acdcb.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Thin.936acdcb-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Thin.e1358f50.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Thin.e1358f50.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Thin.b4e27db9.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Thin.b4e27db9.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Black.3ee088eb.eot
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Black.3ee088eb.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Black.3ee088eb.eot?
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Black.3ee088eb-1.eot
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Black.bde8bcef.woff
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Black.bde8bcef.woff
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/fonts/Gilroy-Black.d59719bc.ttf
+File Name: C:\Downloaded Web Sites\starpets.gg\fonts\Gilroy-Black.d59719bc.ttf
+Content Type: application/octet-stream
+
+Uri: https://starpets.gg/img/background-craters.4c3519cf.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\background-craters.4c3519cf.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/apply.9a7d8570.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\apply.9a7d8570.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/background-craters-halloween.1cea49e1.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\background-craters-halloween.1cea49e1.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/right-bg.77fdd006.png
+File Name: C:\Downloaded Web Sites\starpets.gg\img\right-bg.77fdd006.png
+Content Type: image/png
+
+Uri: https://starpets.gg/img/right-bg-halloween.38b5dedc.png
+File Name: C:\Downloaded Web Sites\starpets.gg\img\right-bg-halloween.38b5dedc.png
+Content Type: image/png
+
+Uri: https://starpets.gg/img/stars.68b662ed.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\stars.68b662ed.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/shovel.15a4cf3e.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\shovel.15a4cf3e.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/arrow.bfa9c183.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\arrow.bfa9c183.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/arrow-revert.d647593a.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\arrow-revert.d647593a.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/drifts.8be931d5.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\drifts.8be931d5.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/newyear-trees.0b38ab10.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\newyear-trees.0b38ab10.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/mountains.afe58e8d.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\mountains.afe58e8d.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/bg.e1cf3540.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bg.e1cf3540.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/snowflake.d18362e1.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\snowflake.d18362e1.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/bg.df8a60f5.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bg.df8a60f5.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/bg-halloween.31416602.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bg-halloween.31416602.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/bg-eng.b4ca3983.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bg-eng.b4ca3983.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/bg-newyear.0c7cc2e4.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bg-newyear.0c7cc2e4.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/snow.40bcc22a.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\snow.40bcc22a.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/mobile-bg.a514c37e.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\mobile-bg.a514c37e.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/mobile-bg-halloween.65cd5e3f.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\mobile-bg-halloween.65cd5e3f.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/mobile-bg-newyear-seal.fab39821.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\mobile-bg-newyear-seal.fab39821.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/mobile-bg-newyear-stars.e5362635.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\mobile-bg-newyear-stars.e5362635.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/mobile-bg-nodog.5efcafdd.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\mobile-bg-nodog.5efcafdd.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/small-bg-2.025bf639.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\small-bg-2.025bf639.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/small-bg-2-eng.bf0a784d.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\small-bg-2-eng.bf0a784d.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/small-bg-halloween.cb3d92a0.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\small-bg-halloween.cb3d92a0.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/small-bg-newyear.3646c2e6.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\small-bg-newyear.3646c2e6.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/mobile-snow.d58dbecd.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\mobile-snow.d58dbecd.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/newyear-snow.347037c4.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\newyear-snow.347037c4.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/checkbox.6305bf88.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\checkbox.6305bf88.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/sort-black.664ca09a.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\sort-black.664ca09a.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/sort-icon.d2b9ccaf.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\sort-icon.d2b9ccaf.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/sort-icon-mobile-inactive.e8ef5477.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\sort-icon-mobile-inactive.e8ef5477.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/bg.5d25df1f.png
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bg.5d25df1f.png
+Content Type: image/png
+
+Uri: https://starpets.gg/img/bg-halloween.0b1b9595.png
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bg-halloween.0b1b9595.png
+Content Type: image/png
+
+Uri: https://starpets.gg/img/bg-newyear.5cfbf54b.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bg-newyear.5cfbf54b.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/pet-bg.3c120504.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\pet-bg.3c120504.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/no-items-bg.8d068ca7.png
+File Name: C:\Downloaded Web Sites\starpets.gg\img\no-items-bg.8d068ca7.png
+Content Type: image/png
+
+Uri: https://starpets.gg/img/no-items-bg-2.d978ec49.png
+File Name: C:\Downloaded Web Sites\starpets.gg\img\no-items-bg-2.d978ec49.png
+Content Type: image/png
+
+Uri: https://starpets.gg/img/no-items-bg-mobile.25502c04.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\no-items-bg-mobile.25502c04.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/logout-bg.ffa2f09f.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\logout-bg.ffa2f09f.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/logout-bg-halloween.27ba8f7e.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\logout-bg-halloween.27ba8f7e.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/top-bg.10ea60e1.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\top-bg.10ea60e1.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/approved-icon.5de096ab.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\approved-icon.5de096ab.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/bottom-bg.98980603.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bottom-bg.98980603.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/bottom-bg-halloween.dfd9b6a7.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\bottom-bg-halloween.dfd9b6a7.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/top-bg-halloween.146be985.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\top-bg-halloween.146be985.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/sectionsBg.af97715a.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\sectionsBg.af97715a.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/arrowRight.e1bfa2c3.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\arrowRight.e1bfa2c3.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/btnLoading.c5865813.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\btnLoading.c5865813.svg
+Content Type: image/svg+xml
+
+Uri: https://starpets.gg/img/closeIcon.5da29bf8.svg
+File Name: C:\Downloaded Web Sites\starpets.gg\img\closeIcon.5da29bf8.svg
+Content Type: image/svg+xml
+
+Uri: https://mc.yandex.ru/watch/83839519/1
+File Name: C:\Downloaded Web Sites\starpets.gg\watch\83839519\1.gif
+Content Type: image/gif
+
